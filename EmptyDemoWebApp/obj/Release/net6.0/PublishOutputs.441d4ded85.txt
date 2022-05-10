@@ -1,0 +1,7 @@
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\EmptyDemoWebApp.exe
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\EmptyDemoWebApp.dll
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\EmptyDemoWebApp.deps.json
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\EmptyDemoWebApp.runtimeconfig.json
+C:\Users\Aaron\source\repos\EmptyDemoWebApp\EmptyDemoWebApp\obj\Release\net6.0\PubTmp\Out\EmptyDemoWebApp.pdb
